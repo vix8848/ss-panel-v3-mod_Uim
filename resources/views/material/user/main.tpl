@@ -12,6 +12,7 @@
 	<link href="/theme/material/css/project.min.css" rel="stylesheet">
     <link href="https://fonts.loli.net/css?family=Roboto:300,300italic,400,400italic,500,500italic|Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="/theme/material/css/user.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<!-- jquery -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1"></script>
     <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs@gh-pages/qrcode.min.js"></script>
